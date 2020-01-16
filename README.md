@@ -1,0 +1,2 @@
+# django_git
+django_blog_build_with_git
